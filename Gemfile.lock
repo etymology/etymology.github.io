@@ -100,6 +100,7 @@ GEM
     mercenary (0.3.6)
     mini_magick (4.8.0)
     mini_portile2 (2.3.0)
+    minimal-mistakes-jekyll (4.0.1)
     minitest (5.11.1)
     nokogiri (1.8.1)
       mini_portile2 (~> 2.3.0)
@@ -145,6 +146,7 @@ DEPENDENCIES
   jekyll-sitemap
   jemoji
   mini_magick
+  minimal-mistakes-jekyll
   sass
   sprockets (= 4.0.0.beta6)
   uglifier
