@@ -1,42 +1,20 @@
+---
+---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom" xmlns:dc="https://purl.org/dc/elements/1.1/">
   <channel>
-    <title>etymology</title>
-    <description></description>
-    <link>etymology.github.io</link>
-    <atom:link href="etymology.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    
+    <title>{{ site.name | xml_escape }}</title>
+    <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
+    <link>{{ site.url }}</link>
+    <atom:link href="{{ page.path | absolute_url }}" rel="self" type="application/rss+xml" />
+    {% for post in site.posts limit:10 %}
       <item>
-        <title>Exposure</title>
-        <description></description>
-        <pubDate>Thu, 18 Jan 2018 00:00:00 -0600</pubDate>
-        <link>etymology.github.io/posts/exposure</link>
-        <guid isPermaLink="true">etymology.github.io/posts/exposure</guid>
+        <title>{{ post.title | xml_escape }}</title>
+        <description>{{ post.description | xml_escape }}</description>
+        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+        <link>{{ post.url | absolute_url }}</link>
+        <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
       </item>
-    
-      <item>
-        <title>Introducing chalk</title>
-        <description>Chalk is a high quality, completely customizable, performant and 100% free blog template for Jekyll.</description>
-        <pubDate>Sat, 23 Dec 2017 00:00:00 -0600</pubDate>
-        <link>etymology.github.io/posts/introducing-chalk</link>
-        <guid isPermaLink="true">etymology.github.io/posts/introducing-chalk</guid>
-      </item>
-    
-      <item>
-        <title>How to configure Chalk</title>
-        <description>Learn more about the config file for Chalk and how to set it up properly.</description>
-        <pubDate>Fri, 22 Dec 2017 00:00:00 -0600</pubDate>
-        <link>etymology.github.io/posts/configuring-chalk</link>
-        <guid isPermaLink="true">etymology.github.io/posts/configuring-chalk</guid>
-      </item>
-    
-      <item>
-        <title>Chalk sample post with all elements</title>
-        <description>Have a look at all the predesigned elements you can use in Chalk.</description>
-        <pubDate>Thu, 21 Dec 2017 00:00:00 -0600</pubDate>
-        <link>etymology.github.io/posts/chalk-sample-post-with-all-elements</link>
-        <guid isPermaLink="true">etymology.github.io/posts/chalk-sample-post-with-all-elements</guid>
-      </item>
-    
+    {% endfor %}
   </channel>
 </rss>
