@@ -6,7 +6,11 @@ main:
     url: /year-archive/
   - title: "Collections"
     url: /collection-archive/
-  - title: "Sitemap"
+  - title: "tags"
+    url: /tags/
+  - title: "categories"
+    url: /categories/
+  - title: "Site"
     url: /sitemap/
 
 # sidebar navigation list sample
