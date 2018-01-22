@@ -3,6 +3,7 @@ title: "Rehearsal (n.)"
 comments: true
 categories: 
   - meta
+  - performance
 tags:
   - meta
   - etymologies
