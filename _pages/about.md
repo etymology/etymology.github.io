@@ -11,7 +11,7 @@ Lately, I've been thinking lately about
 
 * The Historically Informed Performance movement
 * Personal authenticity as an ethical ideal
-* Ethics of suicide and non-birth
+* The ethics of suicide and non-birth
 * Principles of valid (sexual) consent
 * Parfit's theories of personal identity and ethics
 * Aesthetics of Islamic art
