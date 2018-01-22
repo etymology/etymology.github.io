@@ -8,5 +8,5 @@ header:
   overlay_filter: "0.5"
   cta_label: "read"
   cta_url: "/home/"
-excerpt: "(n.) a rehearsal space; a receptacle for rough thoughts"
+excerpt: " /ˌɛt.ɪˈmɒl.ə.dʒi/ (n.) a rehearsal space; a receptacle for rough thoughts"
 ---
