@@ -83,10 +83,10 @@ analytics:
 author:
   name             : "ben"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "glacial erratic"
+  bio              : "musica laetitiae comes, medicina dolorum"
   location         : 
   email            : etymology@uchicago.edu
-  uri              :
+  uri              : /about/
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :

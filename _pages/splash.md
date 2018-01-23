@@ -14,7 +14,3 @@ excerpt: " /ˌɛt.ɪˈmɒl.ə.dʒi/ (n.) a rehearsal space; a receptacle for rou
 <center>
     Hospes hic bene manebis | Hic summum bonum voluptas est
 </center>
-
-<center>
-    Musica lateitiae comes | Medicina dolorum
-</center>
