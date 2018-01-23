@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   cta_label: "read"
-  cta_url: "/home/"
+  cta_url: "/blog/"
 excerpt: " /ˌɛt.ɪˈmɒl.ə.dʒi/ (n.) a rehearsal space; a receptacle for rough thoughts"
 ---
 
