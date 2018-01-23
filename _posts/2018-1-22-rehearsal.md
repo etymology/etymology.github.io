@@ -18,7 +18,7 @@ Compare also "hirsute" (hairy, spiny) and "hearse" (a funeral coach), originally
 
 Somewhere between the practice room and the concert hall, between everyday speech and polished prose, lies a space where the tension between failure and inspiration stimulates extemporaneous performance without straining it. The performance could be a recital for friends, or a dialogue between peers.
 
-I'll hope that this blog will be a space for such informal performances, a place to try out ideas before a forgiving (or silent) audience. HerSe, as in the old sense of "rehercier" I hope to comb through my thoughts, preparing them for new growth.
+I'll hope that this blog will be a space for such informal performances, a place to try out ideas before a forgiving (or silent) audience. Here, as in the old sense of "rehercier" I hope to comb through my thoughts, preparing them for new growth.
 
 I thank my friends for their sound advice and helpful conversations. Alhough they are not to blame for this (mis)adventure, they certainly helped it come to light. Particular thanks to Emily for arguing that this blog could achieve something more than indecent academic exposure, and to Ronen for inspiring me to start. I am motivated by the thought that you might be reading.
 
