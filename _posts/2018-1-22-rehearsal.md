@@ -7,6 +7,7 @@ tags:
   - meta
   - etymologies
   - personal
+  - creativity
 ---
 >(1570s) a practice or trial performance of a play or other work for later public performance.
 
@@ -14,14 +15,33 @@ The verb "to rehearse" (13c. "to repeat, give an account of") comes from Old Fre
 
 Compare also "hirsute" (hairy, spiny) and "hearse" (a funeral coach), originally a wood or metal framework which held the mortuary cloth over the bier or coffin, called a "herse" for its resemblance to a the farm tool. The name became metonymic for the coffin and the vehicle.
 
+([source](https://www.etymonline.com/word/rehearse))
+
 ---
 
-Somewhere between the practice room and the concert hall lies a space where the tension between failure and inspiration stimulates unstrained extemporaneous performance. These performances could be intimate recitals, or dialogues between friends.
+    Think of the long trip home.
+    Should we have stayed at home and thought of here?
+    ...
+    “Is it lack of imagination that makes us come
+    to imagined places, not just stay at home?
+    Or could Pascal have been not entirely right
+    about just sitting quietly in one’s room?
 
-I hope that this blog will be a space for such informal performances, a place to try out ideas before a forgiving audience, a "re-hearsal" of my mental field, turning over my thoughts in preparation for further growth.
+    Continent, city, country, society:
+    the choice is never wide and never free.
+    And here, or there ... No. Should we have stayed at home,
+    wherever that may be?”
 
-I thank my friends for their sound advice and helpful conversation. Alhough they are not to blame for this (mis)adventure, they helped it come to light. Particular thanks to Emily for arguing that this blog could achieve something more than indecent academic exposure, and to Ronen for inspiring me to start. I am motivated by the thought that you might be reading.
+_-- from Elizabeth Bishop, "Questions of Travel"_
+
+To a fault, my mental activity is dictated by my environment. I require distinct spaces for sleep, vigorous activity, celebration. I'm probably not alone in this.
+
+It has recently occured to me that the spaces most conducive to creativity are liminal: spaces which blend privacy and exposure, familiarity and novelty, oppositions which mirror the creative tension between contemplation and expression, reduction and synthesis. 
+
+In liminal spaces like the intimate recital hall, convivial dinner table, coffee shop, or reading room, I feel alive and able to channel the flux of perception and expression. When these forces are properly balanced, the tension between them allows me to spin my thoughts into taut conceptual webs, just barely visible to my mind's eye. Too much tension and the mental filament tears. Too little and the web is formless, slack.
+
+I hope this blog will be such a liminal, creative space for my writing: a place to try out ideas before a forgiving audience, for "re-hearsal" of my mental activity, its content somewhere between a transcript of my internal monologue and a polished work.
+
+At the beginning, I thank my first and most forgiving audience -- my friends -- for providing sound advice and engaging me in helpful conversation, even when it was tedious. Although they are not to blame for this (mis)adventure, it would not have come to light without their encouragement. My particular thanks go to Emily for arguing that this blog could achieve something more than indecent academic exposure and to Ronen for inspiring me to start. I am motivated by the thought that you might be reading.
 
 -ben 
-
-[source](https://www.etymonline.com/word/rehearse)
