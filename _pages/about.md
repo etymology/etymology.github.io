@@ -5,7 +5,7 @@ excerpt: "About"
 permalink: /about/
 ---
 
-I read and write, but not nearly as much as I ought to. My interests include musicology, organology, intellectual history, aesthetics, ethics, philosophy of law and politics, and linguistics.
+I read and write, but not nearly as much as I ought to. My interests include musicology/organology, intellectual history, aesthetics, ethics, philosophy of law, and linguistics.
 
 Lately, I've been thinking lately about
 
