@@ -13,7 +13,7 @@ tags:
 
 The verb "to rehearse" (13c. "to repeat, give an account of") comes from Old French "rehercier" (to go over again, repeat) which in turn derives from OFr. "herse" (harrow), a rake like implement which is dragged across a plowed field to break up clods, remove weeds, and cover seeds. The modern sense comes from the late 16th century.
 
-Compare also "hirsute" (hairy, spiny) and "hearse" (a funeral coach), originally a wood or metal framework which held the mortuary cloth over the bier or coffin, called a "herse" for its resemblance to farm tool. The term synecdochically came to refer to both the coffin and the vehicle.
+Compare also "hirsute" (hairy, spiny) and "hearse" (a funeral coach), originally a wood or metal framework which held the mortuary cloth over the bier or coffin, called a "herse" for its resemblance to farm tool. The term synecdochically came to refer to the coffin and the vehicle.
 
 ([source](https://www.etymonline.com/word/rehearse))
 
@@ -34,14 +34,12 @@ Compare also "hirsute" (hairy, spiny) and "hearse" (a funeral coach), originally
 
 _-- from Elizabeth Bishop, "Questions of Travel"_
 
-To a fault, my mental activity is dictated by my environment. I require distinct spaces for sleep, vigorous activity, celebration. I'm probably not alone in this.
+To a fault, my mental activity is dictated by my environment. I require distinct spaces for sleep, socialization, reflection. I'm probably not alone in this.
 
-It has recently occurred to me that the spaces most conducive to creativity are liminal: spaces which blend privacy and exposure, familiarity and novelty, oppositions which mirror and stimulate the creative tension between contemplation and expression, reduction and synthesis. 
+It recently occurred to me that the spaces most conducive to my creativity are liminal: spaces like the intimate recital hall, convivial dinner table, coffee shop, or reading room, which blend privacy and exposure, familiarity and novelty, in turn fostering a productive balance between contemplation and expression, reduction and synthesis. When these forces are properly balanced, my mind can spin taut conceptual webs. Too much tension and the mental filament tears. Too little and the web is formless, slack.
 
-In liminal spaces like the intimate recital hall, convivial dinner table, coffee shop, or reading room, I feel alive and able to channel the flux of perception and expression. When these forces are properly balanced, the tension between them allows me to spin my thoughts into taut conceptual webs, just barely visible to my mind's eye. Too much tension and the mental filament tears. Too little and the web is formless, slack.
+I hope this blog will be a virtual creative space for writing: a place to try out ideas before a forgiving audience, for "re-hearsal," its content somewhere between a transcript of my internal monologue and a polished work.
 
-I hope this blog will be such a liminal, creative space for my writing: a place to try out ideas before a forgiving audience, for "re-hearsal" of my mental activity, its content somewhere between a transcript of my internal monologue and a polished work.
-
-At the beginning, I thank my first and most forgiving audience -- my friends -- for providing sound advice and engaging me in helpful conversation, even when it was tedious. Although they are not to blame for this (mis)adventure, it would not have come to light without their encouragement. My particular thanks go to Emily for arguing that this blog could achieve something more than indecent academic exposure and to Ronen for inspiring me to start. I am motivated by the thought that you might be reading.
+I thank my first and most forgiving audience -- my friends -- for their sound advice and for engaging me in helpful conversation, even when it was tedious. Although they are not to blame for this (mis)adventure, it would not have come to light without their encouragement. My particular thanks go to Emily for arguing that this blog could achieve something more than indecent academic exposure and to Ronen for inspiring me to start. I am motivated by the thought that you might be reading.
 
 -ben 
