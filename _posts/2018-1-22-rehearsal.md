@@ -13,7 +13,7 @@ tags:
 
 The verb "to rehearse" (13c. "to repeat, give an account of") comes from Old French "rehercier" (to go over again, repeat) which in turn derives from OFr. "herse" (harrow), a rake like implement which is dragged across a plowed field to break up clods, remove weeds, and cover seeds. The modern sense comes from the late 16th century.
 
-Compare also "hirsute" (hairy, spiny) and "hearse" (a funeral coach), originally a wood or metal framework which held the mortuary cloth over the bier or coffin, called a "herse" for its resemblance to a the farm tool. The name became metonymic for the coffin and the vehicle.
+Compare also "hirsute" (hairy, spiny) and "hearse" (a funeral coach), originally a wood or metal framework which held the mortuary cloth over the bier or coffin, called a "herse" for its resemblance to farm tool. The term synecdochically came to refer to both the coffin and the vehicle.
 
 ([source](https://www.etymonline.com/word/rehearse))
 
@@ -36,7 +36,7 @@ _-- from Elizabeth Bishop, "Questions of Travel"_
 
 To a fault, my mental activity is dictated by my environment. I require distinct spaces for sleep, vigorous activity, celebration. I'm probably not alone in this.
 
-It has recently occured to me that the spaces most conducive to creativity are liminal: spaces which blend privacy and exposure, familiarity and novelty, oppositions which mirror the creative tension between contemplation and expression, reduction and synthesis. 
+It has recently occurred to me that the spaces most conducive to creativity are liminal: spaces which blend privacy and exposure, familiarity and novelty, oppositions which mirror and stimulate the creative tension between contemplation and expression, reduction and synthesis. 
 
 In liminal spaces like the intimate recital hall, convivial dinner table, coffee shop, or reading room, I feel alive and able to channel the flux of perception and expression. When these forces are properly balanced, the tension between them allows me to spin my thoughts into taut conceptual webs, just barely visible to my mind's eye. Too much tension and the mental filament tears. Too little and the web is formless, slack.
 

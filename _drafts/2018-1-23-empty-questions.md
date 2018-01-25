@@ -1,5 +1,5 @@
 ---
-title: "Empty Questions"
+title: "On empty questions"
 comments: true
 categories: 
   - philosophy
