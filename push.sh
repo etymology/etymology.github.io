@@ -1,3 +1,3 @@
 git add -A
-git commit -m "revisions automatic message"
+git commit -m "general text revisions message"
 git push origin master
