@@ -38,7 +38,7 @@ To a fault, my mental activity is dictated by my environment. I require distinct
 
 It recently occurred to me that the spaces most conducive to my creativity are liminal: spaces like the intimate recital hall, convivial dinner table, coffee shop, or reading room, which blend privacy and exposure, familiarity and novelty, in turn fostering a productive balance between contemplation and expression, reduction and synthesis. When these forces are properly balanced, my mind can spin taut conceptual webs. Too much tension and the mental filament tears. Too little and the web is formless, slack.
 
-I hope this blog will be a virtual creative space for writing: a place to try out ideas before a forgiving audience, for "re-hearsal," its content somewhere between a transcript of my internal monologue and a polished work.
+I hope this blog will be a virtual creative space for the elaboration of my thoughts: a place to try out ideas before a forgiving audience, for mental "re-hearsal," its content somewhere between a transcript of my internal monologue and a polished work.
 
 I thank my first and most forgiving audience -- my friends -- for their sound advice and for engaging me in helpful conversation, even when it was tedious. Although they are not to blame for this (mis)adventure, it would not have come to light without their encouragement. My particular thanks go to Emily for arguing that this blog could achieve something more than indecent academic exposure and to Ronen for inspiring me to start. I am motivated by the thought that you might be reading.
 
