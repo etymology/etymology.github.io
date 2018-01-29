@@ -42,7 +42,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/posts/promoPost/</loc>
-<lastmod>2018-01-27T23:37:31+00:00</lastmod>
+<lastmod>2018-01-29T03:39:02+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
@@ -63,9 +63,9 @@
 <loc>http://localhost:4000/tags/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/blog/page2/</loc>
+<loc>http://localhost:4000/blog/2/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/blog/page3/</loc>
+<loc>http://localhost:4000/blog/3/</loc>
 </url>
 </urlset>

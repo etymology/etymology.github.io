@@ -5,13 +5,12 @@ excerpt: "About"
 permalink: /about/
 ---
 
-I read and write, but not nearly as much as I ought to. My interests include musicology/organology, intellectual history, philosophy (political, legal, ethics, aesthetics), and linguistics.
+I read and write, but not nearly as much as I ought to. My interests include musicology/organology, intellectual history, political/legal philosophy, ethics, aesthetics and linguistics.
 
 Lately, I've been thinking lately about
 
-* The Historically Informed Performance movement
+* The Historically Informed Performance (HIP) movement
 * Authenticity as an ethical ideal
 * Parfit's theories of personal identity and ethics
 * Aesthetics of Islamic art
 * Sexual consent in philosophy and the law
-* Capital punishment

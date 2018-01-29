@@ -1,6 +1,6 @@
 Dear friends,
 
-I've started a blog. You can read it [here](etymology.github.io).
+I've started a blog. You can view it [here](etymology.github.io).
 
 Now available for your dissection and delectation are posts on three topics very dear to me: food, death and music.
 
