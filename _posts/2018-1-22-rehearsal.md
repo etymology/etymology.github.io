@@ -3,9 +3,8 @@ title: "Rehearsal (n.)"
 comments: true
 categories: 
   - meta
+  - etymology
 tags:
-  - meta
-  - etymologies
   - personal
   - creativity
 ---

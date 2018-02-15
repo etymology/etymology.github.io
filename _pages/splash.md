@@ -13,9 +13,9 @@ excerpt: " /ˌɛt.ɪˈmɒl.ə.dʒi/ (n.) a rehearsal space; a receptacle for rou
 ---
 
 <center>
-    Hospes hic bene manebis
+    Hospes, hic bene manebis!
 </center>
 
 <center>
-    Hic summum bonum voluptas est
+    Hic, summum bonum voluptas est.
 </center>
