@@ -22,4 +22,10 @@ Parfit then applies the idea of "empty questions" to questions of identity. For 
 
 In the middle of this spectrum, things get murky. If I really am "me" at one end and "you" at the other, there should be some dividing line where I stop being me and start being you. Parfit arguest that while we could set such a dividing line arbitrarily (say, at 50% replacement), doing so would not tell us anything that we didn't know beforehand. We can know exactly how much brain matter was exchanged, exactly how the resultant persons will behave, and still not be able to definitively set a dividing line.
 
-This concept, critically, appears in many areas of philosophy. To take an example from my recent reading, consider Matthew Kramer's treatment of "vague concepts" in the context of criminal law. He argues that, while we must
+This quality of emptiness is similar to Matthew Kramer's "vague concepts," which I encountered in Ethics of Capital Punishment. In Ethics, 
+
+Consider Matthew Kramer "vague concepts" in the context of criminal law. When we ask whether someone is "evil enough" to be deserving of death, we must decide upon a threshold, but this threshold can only be "good enough." Kramer contends that we should accept doing "well enough" because every defense, every prosecution, must use such vague concepts as "culpability," "harm," and "intent." A criminal justice system which never set such thresholds would be totally ineffectual.
+
+### What's questioning? 
+
+Perhaps, to use a metaphorical turn of phrase, questions which are not empty are "pregnant" or perhaps
