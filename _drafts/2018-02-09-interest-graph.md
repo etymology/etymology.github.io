@@ -23,3 +23,7 @@ How are these titles related?
 
 
 Introduce robotics to the graph
+
+charting relationship between interests, most far out interests, most reachable intrerests, most traversed interests
+
+what is it good for? is it predictive?

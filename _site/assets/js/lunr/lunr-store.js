@@ -90,7 +90,7 @@ var store = [{
         "url": "http://localhost:4000/posts/dp7/",
         "teaser":null},{
         "title": "Making an interest graph",
-        "excerpt":"Some time ago, in a moment of inspiration, I decided to chart the relationship between various ideas that I’d been having. That map hasn’t survived, but I recently made a digital version, presented here in two forms: arranged as a tree, and clustered by type.These diagrams are both descriptive of the nature of the organization of various ideas that I’vePierre Rameau: “Abrégé de la Nouvelle Methode …”“wuSuuH al-fann fii kitaabat al-bismillah”Henry Sidgwick: “The Methods of Ethics.”How are these titles related?Introduce robotics to the graph","categories": ["personal"],
+        "excerpt":"Some time ago, in a moment of inspiration, I decided to chart the relationship between various ideas that I’d been having. That map hasn’t survived, but I recently made a digital version, presented here in two forms: arranged as a tree, and clustered by type.These diagrams are both descriptive of the nature of the organization of various ideas that I’vePierre Rameau: “Abrégé de la Nouvelle Methode …”“wuSuuH al-fann fii kitaabat al-bismillah”Henry Sidgwick: “The Methods of Ethics.”How are these titles related?Introduce robotics to the graphcharting relationship between interests, most far out interests, most reachable intrerests, most traversed interestswhat is it good for? is it predictive?","categories": ["personal"],
         "tags": [],
         "url": "http://localhost:4000/posts/interest-graph/",
         "teaser":null},{
@@ -122,12 +122,7 @@ var store = [{
         "title": "Parfit: Hypothetical Persons",
         "excerpt":"Part III of Derek Parfit’s Reasons and Persons(1984) includes a number of thought experiments which investigate the nature persons.","categories": ["philosophy"],
         "tags": ["personal identity","thought experiment"],
-        "url": "http://localhost:4000/posts/parfit-exper/",
-        "teaser":null},{
-        "title": "On the Introduction to _Philosophical Explanations_ (1981)",
-        "excerpt":"","categories": ["philosophy"],
-        "tags": ["Nozick","metaphilosophy"],
-        "url": "http://localhost:4000/posts/nozick-explan/",
+        "url": "http://localhost:4000/posts/parfit-hyp/",
         "teaser":null},{
         "title": "The Phallic Recorder",
         "excerpt":"","categories": ["music","history"],
