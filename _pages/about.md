@@ -5,19 +5,10 @@ excerpt: "About"
 permalink: /about/
 ---
 
-I write to think about what I read/hear/see/taste etc. My interests include musicology/organology, intellectual history, philosophy and linguistics.
+I write as a means to think about and digest the world. My interests include musicology/organology, intellectual history, philosophy and linguistics. 
 
-Lately, I've been reading about
-
-* Music
-    - The HIP movement
-    - Reuse and reconstruction in Bach
-    - Dance-music interrelation in turn of the 18th century France
-* Ethics
-    - Authenticity, personal expression and ethics
-    - Personal identity to ethics (_Reasons and Persons_)
-    - Meta-ethical claims of _On What Matters_
-    - Ethics of sexual consent in philosophy and the law
-* Aesthetics
-    - Sound languages and aesthetic systems, esp. re. HIP
-    - Aesthetic principles of Islamic art, esp. calligraphy
+Recent areas of inquiry include
+* Musical performance and composition in the early modern period
+* The relationship between ethics and personal identity
+* Ethics, sociology and history of suicide
+* History/theory of beauty

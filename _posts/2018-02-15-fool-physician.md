@@ -1,5 +1,5 @@
 ---
-title: "Every Man at Forty is a Fool or His Own Physician"
+title: "Etymology: Every Man at Forty is a Fool or His Own Physician"
 excerpt: "Tracing the origins of a saying quoted by Sidgwick"
 comments: true
 categories: 

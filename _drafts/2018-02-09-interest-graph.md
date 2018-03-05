@@ -8,7 +8,12 @@ tags:
   - 
 ---
 
-Some time ago, in a moment of inspiration, I decided to chart the relationship between various ideas that I'd been having. That map hasn't survived, but I recently made a digital version, presented here in two forms: arranged as a tree, and clustered by type.
+Some time ago I decided to chart the relationship between various ideas that I'd been having on a scrap of notebook paper, drawing bubbles for conceptual areas or questions (e.g. aesthetics, music performance practice). The idea was to depict how my scattered interests are connected.
+
+### Building 
+
+
+### Soul invariants
 
 These diagrams are both descriptive of the nature of the organization of various ideas that I've 
 

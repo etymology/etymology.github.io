@@ -1,6 +1,6 @@
 ---
-title: "Three Lost Bach Solo/Duo concertos for Violin"
-excerpt: "Thoughts on the reconstruction of two solo violin concertos and a double concerto (possibly oboe/violin) from the keyboard concertos BWV 1052, 1056 and 1060"
+title: "Reconstructing lost Bach Solo/Duo concertos for Violin"
+excerpt: "On the reconstruction of three violin concertos, one with oboe, from the keyboard concertos BWV 1052, 1056 and 1060"
 comments: true
 categories: 
   - music

@@ -1,5 +1,5 @@
 ---
-title: "Rehearsal (n.)"
+title: "Etymology: Rehearsal (n.)"
 comments: true
 categories: 
   - meta
