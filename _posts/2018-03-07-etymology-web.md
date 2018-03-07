@@ -3,9 +3,11 @@ title: "A Lexical Family Tree"
 excerpt: "What if we tried to construct a word \"family tree\"? What would it look like? What would we learn?"
 comments: true
 categories: 
-    - 
+    - etymology
 tags:
-    - 
+    - network
+    - graph
+    - proposal
 ---
  Etymologies sometimes a tree depiction of the history of a word, with the headword as the root. (see example below) What would happen if, we tried to generate a network for the entire lexicon? 
 

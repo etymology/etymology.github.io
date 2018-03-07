@@ -15,4 +15,4 @@ Recent lines of questioning include
 
 ### Etymology of "Etymology"
 
-An Etymology is a lexical cosmogony. The best etymologies are surprising histories of meaning, etiologies, pathologies of the ineffable sense of words that reveal broad webs of meaning spanning time and space. I think it is thus a fitting name for a blog that investigates reasons, conceptual networks of meaning, and beauty.
+An etymology is a lexical cosmogony. The best etymologies are surprising histories of meaning, etiologies, pathologies of the ineffable sense of words that reveal broad webs of meaning spanning time and space. So I think Etymolgoy is a fitting name for a blog that investigates reasons, conceptual networks of meaning.

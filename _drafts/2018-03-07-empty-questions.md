@@ -1,5 +1,6 @@
 ---
-title: "On empty questions"
+title: "Some Big Questions (and their answers) don't matter"
+excerpt: "On Parfit's concept of the \"empty question\" which suggests that some questions/answers which we regard as crucial do not actually matter."
 comments: true
 categories: 
   - philosophy
