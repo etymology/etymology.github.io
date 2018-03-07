@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/darkRift.jpg
   cta_label: "read"
   cta_url: "/blog/"
-excerpt: " /ˌɛt.ɪˈmɒl.ə.dʒi/ (n.) a lexical cosmogony"
+excerpt: " /ˌɛt.ɪˈmɒl.ə.dʒi/ (n.) a blog about reasons and beauty"
 ---
 
 <center>

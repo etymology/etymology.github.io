@@ -9,38 +9,38 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Etymology: Every Man at Forty is a Fool or His Own Physician – etymology</title>
-<meta name="description" content="Tracing the origins of a saying quoted by Sidgwick">
+<!-- begin _includes/seo.html --><title>A Lexical Family Tree – etymology</title>
+<meta name="description" content="What if we tried to construct a word “family tree”? What would it look like? What would we learn?">
 
 
 
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="etymology">
-<meta property="og:title" content="Etymology: Every Man at Forty is a Fool or His Own Physician">
-<meta property="og:url" content="http://localhost:4000/posts/fool-physician/">
+<meta property="og:title" content="A Lexical Family Tree">
+<meta property="og:url" content="http://localhost:4000/posts/etymology-web/">
 
 
-  <meta property="og:description" content="Tracing the origins of a saying quoted by Sidgwick">
-
-
-
-
-
-
-
-  <meta property="article:published_time" content="2018-02-15T00:00:00+00:00">
+  <meta property="og:description" content="What if we tried to construct a word “family tree”? What would it look like? What would we learn?">
 
 
 
 
 
-  
+
+
+  <meta property="article:published_time" content="2018-03-07T00:00:00+00:00">
+
+
+
+
 
   
 
+  
 
-<link rel="canonical" href="http://localhost:4000/posts/fool-physician/">
+
+<link rel="canonical" href="http://localhost:4000/posts/etymology-web/">
 
 
 
@@ -270,15 +270,15 @@
 
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Etymology: Every Man at Forty is a Fool or His Own Physician">
-    <meta itemprop="description" content="Tracing the origins of a saying quoted by Sidgwick">
-    <meta itemprop="datePublished" content="February 15, 2018">
+    <meta itemprop="headline" content="A Lexical Family Tree">
+    <meta itemprop="description" content="What if we tried to construct a word “family tree”? What would it look like? What would we learn?">
+    <meta itemprop="datePublished" content="March 07, 2018">
     
 
     <div class="page__inner-wrap">
       
         <header>
-          <h1 class="page__title" itemprop="headline">Etymology: Every Man at Forty is a Fool or His Own Physician
+          <h1 class="page__title" itemprop="headline">A Lexical Family Tree
 </h1>
           
             <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
@@ -286,7 +286,7 @@
 
 
 
-  1 minute read
+  2 minute read
 </p>
           
         </header>
@@ -294,51 +294,29 @@
 
       <section class="page__content" itemprop="text">
         
-        <blockquote>
-  <p>“It is proverbial that every man at forty is a fool or his own physician; yet we do not consider Ethics to include the art of medicine”</p>
-</blockquote>
+        <p>Etymologies sometimes a tree depiction of the history of a word, with the headword as the root. (see example below) What would happen if, we tried to generate a network for the entire lexicon?</p>
 
-<p><em>Henry Sidgwick,</em> The Methods of Ethics <em>(1874)</em></p>
+<h3 id="topology-of-etymology">Topology of etymology</h3>
 
-<p>i.e. every sensible man should have learned to take care of himself by the age of forty. Perhaps this was more true in Sidgwick’s time; nowadays, even fools can live to forty and beyond.</p>
+<p>Without actually constructing such a network, we can describe the topology of an idealized etymological network.</p>
 
-<h3 id="quotations">Quotations</h3>
-
-<p><a href="https://books.google.com/books?id=6oaRAAAAIAAJ&amp;pg=PA775&amp;lpg=PA775&amp;dq=every+man+at+forty+is+a+fool+or+his+own+physician&amp;source=bl&amp;ots=A0r-pKCY-L&amp;sig=CD-EkglWEXWxwCUANThFrEsNd5k&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiW5cuL0ajZAhWvVt8KHeo1An4Q6AEIPzAG#v=onepage&amp;q=every%20man%20at%20forty%20is%20a%20fool%20or%20his%20own%20physician&amp;f=false"><em>Cassell’s Book of Quotations Proverbs and Household Words</em></a> (1914) gives two citations:</p>
+<p>Taking as the nodes of our network the various meanings of a word, we can trace the usage of that word with the relation “gives rise to” For example,  OFr. “hercier” gives rise to “hearse” and “rehearsal.” This relation is irreflexive, as a word cannot descend from itself. Further we may forbid loops, as a word may not descend from one of its descendants. (n.b This implies that the relation is also asymmetric, so we can treat it as directed) Thus, we can succinctly say that</p>
 
 <blockquote>
-  <p>I have heard that Tiberius used to say that that man was ridiculous who, after sixty years, appealed to a physician.</p>
+  <p>Def. An <em>etymological network</em> on a corpus C is a directed acyclic graph on a superset of C with the binary relation “gives rise to”</p>
 </blockquote>
 
-<p><em>Plutarch</em> De Sanitate Tuenda <em>Vol 2.</em></p>
+<p>Because it seems likely that there were fewer headwords in ancient languages, we may guess that this graph will look vaguely like a polytree, with its roots being roots in the appropriate proto-language. (For English, mostly Proto-Indo-European) The graph, is likely to have much branching, and a maximum path length of less than ten (average maximal path length probably around five) judging my my experience with the “number of steps” in most etymologies.</p>
 
-<blockquote>
-  <p>[Tiberius] was wont to mock at the arts of physicians, and at those who, after thirty years of age, needed counsel as to what was good or bad for their bodies.”</p>
-</blockquote>
+<p>I am interested in the connectedness of the graph. If there were two disconnected components, for example, this would tell us that there are two families of words which share no common roots or intermediaries. There are like two lexical families. It’s hard for me to say whether such lexical isolates exist. If there are minimally connected families (for example, families which share a single intermediary ancestor) what words are the bridges? These are some of the topological questions that would be answered by the construction of such a network.</p>
 
-<p><em>Tacitus</em> Annals <em>Book 6, chap 46</em></p>
+<h3 id="practical-challenges">Practical Challenges</h3>
 
-<p>Presented below in context:</p>
+<p>While the necessary information is publicly available, it would be prohibitively tedious to compile it by hand. Probably better would would be to scrape it from some standardized etymology source. Unfortunately, it seems that no such source exists. Most etymologies are verbal descriptions, brief histories of words. Another problem is the resolution of conflicting etymologies, and the procuring of sources for the more difficult dead intermediary languages. All of these present significant challenges to the compilation of any substantial and accurate such network.</p>
 
-<blockquote>
-  <p>I have heard that Tiberius Caesar was wont to say, that he was a ridiculous man that held forth his hand to a physician after sixty. But it seems to me to be a little too severely said. But this is certain, that every man ought to have skill in his own pulse, for it is very different in every man; neither ought he to be ignorant of the temper of his own body, as to heat and cold, or what things do him good, and what hurt.</p>
-</blockquote>
+<p>Nonetheless, if we only care about investigating the general structure of such a network and restrict ourselves to a fairly small corpus of “modern” words, it should be possible.</p>
 
-<p><em>Plutarch</em> De Tuenda Sanitate Praecepta <em>W.W.Goodwin trans. (1873) sec. 26</em> <a href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0178%3Asection%3D26">Perseus</a></p>
-
-<blockquote>
-  <p>But even while his strength was fast failing he gave up none of his debaucheries. In his sufferings he would simulate health, and was wont to jest at the arts of the physician and at all who, after the age of thirty, require another man’s advice to distinguish between what is beneficial or hurtful to their constitutions.</p>
-</blockquote>
-
-<p><em>Tacitus</em> Annals <em>Book 6, chap 46</em> <a href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0078:book=6:chapter=46&amp;highlight=physician">Perseus</a></p>
-
-<p><em>Cassell</em> corroborates this account with a quotation of Suctonius (which I was unable to cross reference) that</p>
-
-<blockquote>
-  <p>From the age of thirty, [Tiberius] ruled himself according to his own judgment wihtout the help or advice of the physicians.</p>
-</blockquote>
-
-<p><em>Suctonius</em> Tiberius <em>chap. 68</em></p>
+<p>As I proof of concept, I plan to compile such a tree by hand. I hope at some point to have time to write a script to scrape and format the data appropriately for the construction of a more substantial network.</p>
 
         
       </section>
@@ -346,52 +324,10 @@
       <footer class="page__meta">
         
         
-  
-
-
-  
-  
-  
-
-  <p class="page__taxonomy">
-    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
-    <span itemprop="keywords">
-    
-      
-      
-      <a href="http://localhost:4000/tags/#idioms" class="page__taxonomy-item" rel="tag">idioms</a><span class="sep">, </span>
-    
-      
-      
-      <a href="http://localhost:4000/tags/#sidgwick" class="page__taxonomy-item" rel="tag">sidgwick</a>
-    
-    </span>
-  </p>
-
-
-
-
-  
-
-
-  
-  
-  
-
-  <p class="page__taxonomy">
-    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
-    <span itemprop="keywords">
-    
-      
-      
-      <a href="http://localhost:4000/categories/#etymology" class="page__taxonomy-item" rel="tag">etymology</a>
-    
-    </span>
-  </p>
 
 
         
-          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2018-02-15T00:00:00+00:00">February 15, 2018</time></p>
+          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2018-03-07T00:00:00+00:00">March 07, 2018</time></p>
         
       </footer>
 
@@ -400,25 +336,24 @@
     <h4 class="page__share-title">Share on</h4>
   
 
-  <a href="https://twitter.com/intent/tweet?text=Etymology%3A+Every+Man+at+Forty+is+a+Fool+or+His+Own+Physician%20http%3A%2F%2Flocalhost%3A4000%2Fposts%2Ffool-physician%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?text=A+Lexical+Family+Tree%20http%3A%2F%2Flocalhost%3A4000%2Fposts%2Fetymology-web%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2Fposts%2Ffool-physician%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2Fposts%2Fetymology-web%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://plus.google.com/share?url=http%3A%2F%2Flocalhost%3A4000%2Fposts%2Ffool-physician%2F" class="btn btn--google-plus" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Google Plus"><i class="fab fa-fw fa-google-plus" aria-hidden="true"></i><span> Google+</span></a>
+  <a href="https://plus.google.com/share?url=http%3A%2F%2Flocalhost%3A4000%2Fposts%2Fetymology-web%2F" class="btn btn--google-plus" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Google Plus"><i class="fab fa-fw fa-google-plus" aria-hidden="true"></i><span> Google+</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flocalhost%3A4000%2Fposts%2Ffool-physician%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flocalhost%3A4000%2Fposts%2Fetymology-web%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
 
       
   <nav class="pagination">
     
-      <a href="http://localhost:4000/posts/phallic-recorder/" class="pagination--pager" title="The Phallic Recorder
+      <a href="http://localhost:4000/posts/valuing/" class="pagination--pager" title="On Valuing and Mental Ilness
 ">Previous</a>
     
     
-      <a href="http://localhost:4000/posts/progress/" class="pagination--pager" title="On Progress and What Matters
-">Next</a>
+      <a href="#" class="pagination--pager disabled">Next</a>
     
   </nav>
 
@@ -432,33 +367,6 @@
     <div class="page__related">
       <h4 class="page__related-title">You May Also Enjoy</h4>
       <div class="grid__wrapper">
-        
-          
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="http://localhost:4000/posts/etymology-web/" rel="permalink">A Lexical Family Tree
-</a>
-      
-    </h2>
-    
-      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
-
-
-
-
-  2 minute read
-</p>
-    
-    <p class="archive__item-excerpt" itemprop="description">What if we tried to construct a word “family tree”? What would it look like? What would we learn?
-</p>
-  </article>
-</div>
         
           
 
@@ -513,6 +421,25 @@
     </h2>
     
     <p class="archive__item-excerpt" itemprop="description">In which I apologize for a recent pet project and complain about recorder players
+</p>
+  </article>
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/posts/interest-graph/" rel="permalink">An Interest Graph, or the Search of Invariants of the Soul
+</a>
+      
+    </h2>
+    
+    <p class="archive__item-excerpt" itemprop="description">To trace the origins of my disparate interests, I made a network describing their interrelations and learned nothing along the way
 </p>
   </article>
 </div>
@@ -577,8 +504,8 @@
     
   <script>
     var disqus_config = function () {
-      this.page.url = "http://localhost:4000/posts/fool-physician/";  // Replace PAGE_URL with your page's canonical URL variable
-      this.page.identifier = "/posts/fool-physician"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+      this.page.url = "http://localhost:4000/posts/etymology-web/";  // Replace PAGE_URL with your page's canonical URL variable
+      this.page.identifier = "/posts/etymology-web"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
     };
     (function() { // DON'T EDIT BELOW THIS LINE
       var d = document, s = d.createElement('script');
