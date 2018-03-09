@@ -11,7 +11,7 @@ tags:
 
 According to Derek parfit, we are not what we believe we are. Once we accept a more true view of the nature of persons over time, Parfit believes that we should also change the way that we act.
 
-
+Parfit's theory of personal identity, as described in Part III of _Reasons and Persons_ (1984) has 
 
 ### What we believe we are
 
