@@ -9,19 +9,19 @@ tags:
     - graph
     - proposal
 ---
- Etymologies sometimes a tree depiction of the history of a word, with the headword as the root. (see example below) What would happen if, we tried to generate a network for the entire lexicon? 
+Etymologies, such as those provided by a Google search, sometimes provide a tree-like depiction of the various historical antecedents of a word with the headword as the root. What a tree for the entire lexicon look like?
 
-### Topology of etymology
+### The Topology of Etymology
 
-Without actually constructing such a network, we can describe the topology of an idealized etymological network.
+Without actually constructing such a network, we can describe its topology.
 
-Taking as the nodes of our network the various meanings of a word, we can trace the usage of that word with the relation "gives rise to" For example,  OFr. "hercier" gives rise to "hearse" and "rehearsal." This relation is irreflexive, as a word cannot descend from itself. Further we may forbid loops, as a word may not descend from one of its descendants. (n.b This implies that the relation is also asymmetric, so we can treat it as directed) Thus, we can succinctly say that
+Imagine a network where each node is a "definition" of a word. If a word A is one of the most recent ancestor of B, A points to B. For example,  OFr. "hercier" would point to to "hearse" and "rehearsal." This relation is irreflexive, as a word cannot descend from itself. Further we may forbid loops, as a word may not descend from one of its descendants. (n.b This implies that the relation is asymmetric) Thus, we can succinctly say that
 
->Def. An _etymological network_ on a corpus C is a directed acyclic graph on a superset of C with the binary relation "gives rise to"
+>Def. An _etymological network_ on a corpus C is a directed acyclic graph on a superset of C with the binary relation ""
 
-Because it seems likely that there were fewer headwords in ancient languages, we may guess that this graph will look vaguely like a polytree, with its roots being roots in the appropriate proto-language. (For English, mostly Proto-Indo-European) The graph, is likely to have much branching, and a maximum path length of less than ten (average maximal path length probably around five) judging my my experience with the "number of steps" in most etymologies.
+Because it seems likely that there were fewer words in the ancient languages, I'm guessing that this graph will look vaguely like a polytree, with its roots being roots in the appropriate proto-language. (For English, mostly Proto-Indo-European) The graph will probably have a maximum path length of less than ten (average maximal path length probably around five) judging my my experience with the "number of steps" in most etymologies, although I would be interested to see what the maximal paths looks like.
 
-I am interested in the connectedness of the graph. If there were two disconnected components, for example, this would tell us that there are two families of words which share no common roots or intermediaries. There are like two lexical families. It's hard for me to say whether such lexical isolates exist. If there are minimally connected families (for example, families which share a single intermediary ancestor) what words are the bridges? These are some of the topological questions that would be answered by the construction of such a network.
+I'm also interested in the connectedness of the graph. If there were two disconnected components, for example, this would tell us that there are two families of words which share no common roots or intermediaries. There are like two lexical families. It's hard for me to say whether such lexical isolates exist. If there are minimally connected families (for example, families which share a single intermediary ancestor) what words are the bridges? These are some of the topological questions that would be answered by the construction of such a network.
 
 ### Practical Challenges
 
