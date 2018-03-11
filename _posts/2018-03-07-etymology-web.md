@@ -25,7 +25,9 @@ I'm also interested in the connectedness of the graph. If there were two disconn
 
 ### Practical Challenges
 
-While the necessary information is publicly available, it would be prohibitively tedious to compile it by hand. Probably better would would be to scrape it from some standardized etymology source. Unfortunately, it seems that no such source exists. Most etymologies are verbal descriptions, brief histories of words. Another problem is the resolution of conflicting etymologies, and the procuring of sources for the more difficult dead intermediary languages. All of these present significant challenges to the compilation of any substantial and accurate such network. 
+While the necessary information is publicly available, it would be prohibitively tedious to compile it by hand. Probably better would would be to scrape it from some standardized etymology source. Unfortunately, it seems that no such source exists. Most etymologies are verbal descriptions, brief histories of words. Another problem is the resolution of conflicting etymologies, and the procuring of sources for the more difficult dead intermediary languages. 
+
+Another problem is the tracing of the lineace of "direct" descendants and the existence of multiple concurrent versions of a word, especially before modern spelling reforms. Consider also how to take into accound the fact taht first attestatations of a word often long precede their entrance into the standard lexicon. Such a network would not capture this dynamic aspect of the lexicon.
 
 Nonetheless, if we only care about investigating the general structure of such a network and restrict ourselves to a fairly small corpus of "modern" words, it should be possible.
 
