@@ -1,6 +1,0 @@
-A Claviorganum from the Salzburg "Arts and Curio Cabinet" - Gerhard Croll, Benjamin Oye trans.
-
-
-
-The following contribution -describes an instrument which may be heard this summer (1975) in Salzburg in the Institute for Musicology of the University of Salzburg on the last friday of the month in the "Concerts in the Curio Cabinet" of the Salzburg City Museum. The following contribution was 
-
