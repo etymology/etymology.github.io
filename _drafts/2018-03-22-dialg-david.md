@@ -23,3 +23,14 @@ Sometimes, a conversation sticks with
 David
 
 [^1]: the footnote
+
+
+
+
+
+
+materialist/idealist conceptsions of the world, intuition, mysteries, perplexities, 
+
+hobbes minds coordination thought experiments philosopher-land
+
+nozick: nature of rationality. Parfit/wood thought experiments. consequentialism, atomic materialism, referentiality?
